@@ -3,7 +3,7 @@ Delhi NCR Ride Bookings analysis using Power BI. Analyzed 150K+ bookings and 51M
 ## Dashboard Preview
 ![Main Dashboard](Screenshot%202026-01-26%20143704.png)
 ![Revenue Insights](Screenshot%202026-01-26%20143820.png)
-![Ride Details](Screenshot%202026-01-26%20143928.png)
+![Ride Details](Screenshot%202026-01-26%20143855.png)
 ![Ride Trends](Screenshot%202026-01-26%20143928.png)
 ![Cancellations](Screenshot%202026-01-26%20143953.png)
 ![Location Analysis](Screenshot%202026-01-26%20144215.png)
