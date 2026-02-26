@@ -1,13 +1,21 @@
-# Delhi-NCR-Ride-Analysis
+<img width="891" height="497" alt="Index" src="https://github.com/user-attachments/assets/28ded7ba-b5e1-44ee-9a5d-96c152b95e94" /># Delhi-NCR-Ride-Analysis
 Delhi NCR Ride Bookings analysis using Power BI. Analyzed 150K+ bookings and 51M+ revenue to optimize operational efficiency and track cancellation trends.
 ## Dashboard Preview
-![Main Dashboard](Screenshot%202026-01-26%20143704.png)
-![Revenue Insights](Screenshot%202026-01-26%20143820.png)
-![Ride Details](Screenshot%202026-01-26%20143855.png)
-![Ride Trends](Screenshot%202026-01-26%20143928.png)
-![Cancellations](Screenshot%202026-01-26%20143953.png)
-![Location Analysis](Screenshot%202026-01-26%20144215.png)
-![Vehicle Insights](Screenshot%202026-01-26%20144239.png)
+![Delhi NCR Ride Bookings Index](Index.jpg)
+### Key Insights
+![Key Insights Dashboard](Key%20Insights.png)
+### Revenue Analysis
+![Revenue Insights Dashboard](Revenue%20Insights.png)
+### Ride Details
+![Ride Details Dashboard](Ride%20Details.png)
+### Ride Trends
+![Ride Trends Dashboard](Ride%20Trends.png)
+### Cancellation Analysis
+![Cancellations Dashboard](Cancellations.png)
+### Location Insights
+![Location Dashboard](Locations.png)
+### Vehicle Insights
+![Vehicle Insights Dashboard](Vehicles.png)
 
 ## Key Project Insights
 * **Revenue & Volume:** Analyzed a massive dataset of **150K bookings** generating **51.8M in total revenue**.
